@@ -39,3 +39,7 @@ cd personal-finance-tracker
 python3 finance_tracker.py
 
 
+
+𝐋𝐢𝐜𝐞𝐧𝐬𝐞:
+This project is licensed under the MIT License - see the LICENSE file for details.
+
