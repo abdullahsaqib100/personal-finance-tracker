@@ -30,7 +30,7 @@ Despite these hurdles, this project helped solidify my understanding of Python's
 𝐇𝐨𝐰 𝐭𝐨 𝐑𝐮𝐧 𝐭𝐡𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭?
 
 𝟭. 𝗖𝗹𝗼𝗻𝗲 𝘁𝗵𝗲 𝗿𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆:
-git clone https://github.com/yourusername/personal-finance-tracker.git
+git clone https://github.com/abdullahsaqib100/personal-finance-tracker.git
 
 𝟮. 𝗡𝗮𝘃𝗶𝗴𝗮𝘁𝗲 𝘁𝗼 𝘁𝗵𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗱𝗶𝗿𝗲𝗰𝘁𝗼𝗿𝘆:
 cd personal-finance-tracker
